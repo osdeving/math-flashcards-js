@@ -1,4 +1,4 @@
-const DESVIRAR_APOS = 1000;
+const DESVIRAR_APOS = 1500;
 
 // Dados das propriedades
 const properties = [
